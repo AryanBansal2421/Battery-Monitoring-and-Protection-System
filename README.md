@@ -20,6 +20,7 @@ The design demonstrates practical analog circuit design concepts commonly used i
 ---
 
 ## System Architecture
+<img width="715" height="422" alt="Architecture_Diagram" src="https://github.com/user-attachments/assets/f1f11438-2b18-4e51-abf6-61bba3164560" />
 
 Battery Voltage → Voltage Divider → Vsense
 
